@@ -11,5 +11,8 @@ class NumpyHandler:
   
   def standard_derivation_with_params(self, numbers: List[float]) -> float:
     return self.__np.std(numbers, axis=[])
+  
+  def variance(self, numbers: List[float]) -> float:
+    return self.__np.var(numbers)
     
   
