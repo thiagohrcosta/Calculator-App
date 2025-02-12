@@ -62,7 +62,8 @@ pip install -r requirements.txt
 4️⃣ **Run the Application:**
 
 ```
-python src/main/server/__init__.py
+python src/main/server/__init__.py  or
+python3 run.py
 ```
 
 ----------
