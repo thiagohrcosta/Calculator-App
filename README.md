@@ -78,22 +78,22 @@ pytest
 
 ## 📌 Features
 
-✅ Modular calculator implementations
-✅ Factory pattern for scalability 
-✅ Structured error handling 
-✅ Unit-tested components 
-✅ API-ready architecture
-✅ NumPy-powered calculations for high-performance processing
+✅ Modular calculator implementations <br/>
+✅ Factory pattern for scalability <br/>
+✅ Structured error handling <br/>
+✅ Unit-tested components <br/>
+✅ API-ready architecture <br/>
+✅ NumPy-powered calculations for high-performance processing <br/>
 
 
 ## 🎯 Why This Project?
 
 This project is an excellent demonstration of Python best practices, test-driven development, and scalable software architecture. If you're looking for a well-structured API project, this is it!
 
-🔹 **Built for scalability** ➝ Designed with clean architecture principles 
-🔹 **Focused on maintainability** ➝ Code is structured for easy modifications 
-🔹 **Industry-standard patterns** ➝ Factory design, error handling, and unit testing
-🔹 **NumPy integration** ➝ Optimized mathematical computations for performance
+🔹 **Built for scalability** ➝ Designed with clean architecture principles <br/>
+🔹 **Focused on maintainability** ➝ Code is structured for easy modifications <br/>
+🔹 **Industry-standard patterns** ➝ Factory design, error handling, and unit testing <br/>
+🔹 **NumPy integration** ➝ Optimized mathematical computations for performance <br/>
 
 
 ## 📄 License
